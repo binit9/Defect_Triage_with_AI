@@ -1,0 +1,23 @@
+summary:
+actual:
+expected:
+requirements:
+workaround:
+Date/Time:
+Date and Time:
+Date & Time:
+Attachment path:
+Criticality:
+Attachment path for analysis:
+n/a
+Expected behavior:
+Observed behavior:
+Description:
+Precondition:
+actual outcome:
+Expected outcome:
+IG communication:
+Exception:
+Requirement ID:
+Problem report path:
+id and text:
